@@ -1,16 +1,50 @@
 h1 {
   text-align: center;
-  font-family: "Bodoni Moda", Bodoni, Didone;
-  font-weight: 900;
-  font-size: 2.5em;
+  font-family: 'Playfair Display', "Bodoni Moda", Bodoni;
+  font-size: 3em;
+}
+
+.navbar {
+	text-align: center;
+	text-decoration: none;
+	font-family: Bodoni;
+	font-size: 1.2em;
+}
+.navbar a {
+	margin: auto;
+	width: 700px;
+	max-width: 67%;
+	text-align: inherit;
+	text-decoration: inherit;
+	font-family: 'Playfair Display';
+	font-size: inherit;
 }
 
 p {
 	text-align: left;
 	font-family: "Roboto", Helvetica;
+	font-size: 1.2em;
+	color: black;
 }
 
-div {
-	
-	max-width: 67%
+ul {
+	font-family: "Roboto", Helvetica;
+	font-size: 1.2em;
+	color: black;
 }
+
+a {
+	font-family: "Roboto", Helvetica;
+	font-size: 1em;
+	color: black;
+	text-decoration: underline;
+}
+
+.std {
+	margin: auto;
+	width: 700px;
+	max-width: 67%;
+}
+
+
+
