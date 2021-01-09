@@ -7,3 +7,7 @@ p {
 	text-align: left;
 	font-family: "Roboto", Helvetica;
 }
+
+div {
+	max-width: 67%
+}
