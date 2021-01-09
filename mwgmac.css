@@ -1,6 +1,8 @@
 h1 {
   text-align: center;
   font-family: "Bodoni Moda", Bodoni, Didone;
+  font-weight: 900;
+  font-size: 2.5em;
 }
 
 p {
@@ -9,5 +11,6 @@ p {
 }
 
 div {
+	
 	max-width: 67%
 }
