@@ -9,11 +9,10 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<p>Some things I've been writing about (mostly early/-ish drafts on the backburner):
+<p>Drafts/in preparation:
 	<ul>
-		<li>Duality, FDE, and negated negations</li>
-		<li>The 'extended FDE family'; relational semantics for infectious logics</li>
-		<li>The relation between 'structural' and 'connective' constraints/rules</li>
+		<li>Consistency of naive set theory in ST_\omega</li>
+		<li>Iterated modal ontological arguments</li>
 	</ul>
 </p>
 
