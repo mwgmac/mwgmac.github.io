@@ -5,8 +5,10 @@ description: "About Matthew's reasearch"
 
 # reasearch
 
-My doctoral research, funded through a Pigott Studentship, is in philosophical logic and the philosophy of logic, focused especially on inconsistency, classicality, and some relatively new logical tools (*mixed* and *metainferential* logics). My PhD is about a couple of closely related issues: 
-1. Can we can deploy to combine nontrivial negation-inconsistency with a classical-strength logic? Is there an interesting rapprochment between dialetheism (the view that there are true contradictions) and classical logic (which trivialises contradiction)?
+My PhD is funded through a Pigott Studentship, and supervised by [Prof Michael Potter](https://www.phil.cam.ac.uk/people/teaching-research-pages/potter) and Dr Michael Gabbay.
+
+The project, mostly in philosophical logic and the philosophy of logic, focuses especially on inconsistency, classicality, and some relatively new logical tools (*mixed* and *metainferential* logics). My PhD is basically about a couple of closely related issues: 
+1. Can we can use these tools to combine nontrivial negation-inconsistency with a classical-strength logic? Is there an interesting rapprochment between dialetheism (the view that there are true contradictions) and classical logic (which trivialises contradiction)?
 2. How are we to understand these mixed and metainferential systems? Is there a good sense in which they sit nicely within a broader (particularly dialetheic) logical theory?
 
 I'm especially interested in the sort of questions that arise for the *classical dialetheist* who use such mixed and metainferential tools to acheive a certain kind of 'classicality'. Here are some things I'm thinking about:
