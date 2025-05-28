@@ -47,7 +47,7 @@ params:
           
           I'm mostly at the moment working in philosophical logic and related areas, but I have other interests. Nonphilosophical interests include pubs and cute animals."
 
-          imageUrl: "matthew.jpg"
+          imageUrl: "matthew.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -81,4 +81,4 @@ markup:
     tableOfContents:
         endLevel: 2
         ordered: false
-        startLevel: 2
+        startLevel: 2   
