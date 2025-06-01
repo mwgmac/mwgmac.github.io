@@ -14,7 +14,13 @@ menu:
     main:
         - name: research
           url: research/
-          weight: 5 
+          weight: 1
+        - name: papers
+          url: papers/
+          weight: 2
+        - name: about
+          url: about/
+          weight: 3
 
 params:
     description: "Matthew on the web"
@@ -43,9 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Matthew W. G. D. McClure
-          subtitle: "Hi! I'm Matthew. I'm a PhD student in Philosophy at Cambridge (based at Peterhouse). Before that, I did an MA in Philosophy at Edinburgh, then an MPhil in Philosophy at Cambridge (also at Peterhouse).<br>
-          
-          I'm mostly at the moment working in philosophical logic and related areas, but I have other interests. Nonphilosophical interests include pubs and cute animals."
+          subtitle: "Hi! I'm Matthew. I'm a PhD student in Philosophy at Cambridge. I'm mostly working in philosophical logic and related areas at the moment, but I have other interests too."
 
           imageUrl: "matthew.jpeg"
           imageWidth: 160
@@ -53,6 +57,10 @@ params:
           buttons:
             - name: research
               url: research/
+            - name: papers
+              url: papers/
+            - name: about
+              url: about/
 
     socialIcons:
         - name: Email
