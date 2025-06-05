@@ -67,6 +67,8 @@ params:
           url: mailto:mwgm2@cam.ac.uk
         - name: LinkedIn
           url: https://www.linkedin.com/in/mwgmac/
+        - name: Location
+          url: location/
         
 
     assets:
