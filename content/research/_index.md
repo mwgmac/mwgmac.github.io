@@ -5,7 +5,7 @@ description: "About Matthew's reasearch"
 
 # reasearch
 
-My PhD, based in the [Cambridge Philosophy Faculty](https://www.phil.cam.ac.uk/), is funded through a Pigott Studentship, and supervised by [Prof Michael Potter](https://www.phil.cam.ac.uk/people/teaching-research-pages/potter) and Dr Michael Gabbay.
+My PhD, based in the [Cambridge Philosophy Faculty](https://www.phil.cam.ac.uk/), is funded through a Pigott Studentship and supervised by [Prof Michael Potter](https://www.phil.cam.ac.uk/people/teaching-research-pages/potter) and Dr Michael Gabbay.
 
 The project, mostly in philosophical logic and the philosophy of logic, focuses on inconsistency, classicality, and some relatively new logical tools (*mixed* and *metainferential* logics). My PhD is basically about a couple of closely related issues: 
 1. Can we can use these tools to combine a discriminating treatment of inconsistency with a classical-strength logic? Is there an interesting rapprochment between dialetheism (the view that there are true contradictions) and classical logic (which trivialises contradictions)?
