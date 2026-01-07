@@ -11,4 +11,4 @@ At Cambridge, I've been involved in running the graduate logic conference for a 
 
 I grew up in Carlisle near the Anglo-Scottish border, known for biscuits, reivers, and the Royal Navy advert. (It should be better known for its fascinating [cathedral](https://carlislecathedral.org.uk/history/) and [nationalised pubs](https://thestatemanagementstory.org/).) I am half English and half Scottish.
 
-Besides philosophy, I like music, pub culture (and ale), and (when in the right mood) poetry.
+Besides philosophy, I like music, pubs (and real ale), and (in my less grumpy and jaded moods) poetry.
