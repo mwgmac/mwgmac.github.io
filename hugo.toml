@@ -1,0 +1,4 @@
+baseURL = 'https://mwgmac.github.io/'
+locale = 'en-us'
+title = 'M. W. G. D. McClure'
+theme = 'ritzy'

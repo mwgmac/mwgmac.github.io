@@ -1,0 +1,9 @@
+[submodule "themes/etch"]
+	path = themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
+[submodule "themes/ed"]
+	path = themes/ed
+	url = https://github.com/sergeyklay/gohugo-theme-ed.git
+[submodule "themes/ritzy"]
+	path = themes/ritzy
+	url = https://github.com/ddritzenhoff/ritzy.git
